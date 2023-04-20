@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4eb3cf8.css",
+    "main.js": "/static/js/main.d5211b64.js",
+    "static/js/787.19d1c27b.chunk.js": "/static/js/787.19d1c27b.chunk.js",
+    "static/media/gensproutpigerne.svg": "/static/media/gensproutpigerne.b012009b6e204aeac55919e1cc0d107a.svg",
+    "static/media/klistermearker.svg": "/static/media/klistermearker.940949f5e7170fb7c86b9e4b967d1d8a.svg",
+    "static/media/sarah_portraet.png": "/static/media/sarah_portraet.a6888a9b4f8c08817644.png",
+    "static/media/signe_portraet.png": "/static/media/signe_portraet.b9c4fa9359c1f9409a29.png",
+    "static/media/ane_portraet.png": "/static/media/ane_portraet.a0700ebfd7b2cdd0dcd3.png",
+    "static/media/sofie_portrat.png": "/static/media/sofie_portrat.a10346c989e6b65aa0c6.png",
+    "static/media/LeagueSpartan-Black.ttf": "/static/media/LeagueSpartan-Black.d4303c11df0dad0324cf.ttf",
+    "static/media/LeagueSpartan-Bold.ttf": "/static/media/LeagueSpartan-Bold.c311dbd01e80ebe50942.ttf",
+    "static/media/LeagueSpartan-Light.ttf": "/static/media/LeagueSpartan-Light.354c1d0b29bf33854f9c.ttf",
+    "static/media/jordenifokusklister.svg": "/static/media/jordenifokusklister.fd19393b4b10a78272e99f260f0e109e.svg",
+    "static/media/webudvikling.svg": "/static/media/webudvikling.022b33224ef5d37fa4935bc892341fee.svg",
+    "static/media/webdesign.svg": "/static/media/webdesign.3df5cf1ed1590cefbc9e4a8a746b972d.svg",
+    "static/media/errorpic.svg": "/static/media/errorpic.0844e9494c3c0e32f073070d74b68296.svg",
+    "static/media/gensprout-logo-beige.svg": "/static/media/gensprout-logo-beige.39045e29dfb1b619e68f735d0ae3fe20.svg",
+    "static/media/gensprout-logo-gron.svg": "/static/media/gensprout-logo-gron.3259b9bb055aa166b52954730af202cc.svg",
+    "static/media/checkliste.svg": "/static/media/checkliste.51d40f1b2fde537fe7b88b56e83c80c4.svg",
+    "static/media/pc.svg": "/static/media/pc.52e268c831dcba3aa8d114742c139a4f.svg",
+    "static/media/paerer.svg": "/static/media/paerer.096662f648fb4d4c864ccee1ba2527e0.svg",
+    "static/media/co2.svg": "/static/media/co2.54a2eea22d3dcb5c19a2ebd3f648ce51.svg",
+    "index.html": "/index.html",
+    "main.a4eb3cf8.css.map": "/static/css/main.a4eb3cf8.css.map",
+    "main.d5211b64.js.map": "/static/js/main.d5211b64.js.map",
+    "787.19d1c27b.chunk.js.map": "/static/js/787.19d1c27b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4eb3cf8.css",
+    "static/js/main.d5211b64.js"
+  ]
+}
